@@ -1,18 +1,7 @@
 # Learn-Git-and-GitHub
-
-# Git & GitHub: The Ultimate Starter Guide 🚀
-
-Welcome! This repository serves as a cheat sheet and guide for understanding Git (the version control system) and GitHub (the platform that hosts it).
-
-## 📖 Table of Contents
-- [The Difference: Git vs. GitHub](#the-difference-git-vs-github)
-- [Key Terminology](#key-terminology)
-- [Command Cheat Sheet](#command-cheat-sheet)
-- [Common Workflow](#common-workflow)
-
 ---
 
-## The Difference: Git vs. GitHub
+## Git vs. GitHub
 
 * **Git:** The tool installed on your local computer that tracks changes to your files. (Think of it as "Save As..." on steroids).
 * **GitHub:** The website where you upload your Git repositories to share and collaborate with others. (Think of it as Google Drive for code).
@@ -35,9 +24,7 @@ Welcome! This repository serves as a cheat sheet and guide for understanding Git
 
 ---
 
-## 💻 Command Cheat Sheet
-
-Open your terminal (Mac/Linux) or Git Bash (Windows) to use these.
+## 💻 Commands
 
 ### Setup & Initialization
 * `git init`: Turns the current folder into a new Git repository.
